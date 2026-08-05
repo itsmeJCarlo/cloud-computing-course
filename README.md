@@ -7,7 +7,7 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
 👤 Student Information
-- Name: Juan Carlo I. Cayabyab
+- Name: [Juan Carlo I. Cayabyab]
 - Course/Section:[BSIT-4K]
 - Instructor:[Jenkielyn Torres]
 - School Year: [2026-2027]
