@@ -46,3 +46,13 @@ AWS is recommended because it has a large global infrastructure that can support
 **Amazon EC2 / Auto Scaling** – to automatically increase or decrease computing resources based on demand. 
 **Amazon RDS** – for managing the company's relational database. 
 **Amazon CloudFront** – to quickly deliver website content to customers around the world.
+
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Offers a broad range of services, flexible scaling, and many tools suitable for developing and growing applications. |
+| Enterprise Organization | AWS | Provides extensive services, strong security features, and a mature global infrastructure for large-scale workloads. |
+| Microsoft Environment | Microsoft Azure | Provides excellent integration with Windows Server, Microsoft 365, Active Directory, and other Microsoft technologies. |
+| AI / Machine Learning | Google Cloud (GCP) | Provides strong AI/ML capabilities, including Vertex AI, GPUs, and TPUs for high-performance workloads. |
+| Kubernetes Deployment | Google Cloud (GCP) | Google developed Kubernetes and provides Google Kubernetes Engine (GKE), a managed Kubernetes service. |
+| Global Web Application | AWS | Offers extensive global infrastructure, Auto Scaling, and services such as CloudFront for delivering applications worldwide. |
